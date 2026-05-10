@@ -4,7 +4,7 @@
 - Resume Builder
 - Resume Preview
 - Skill Gap Analysis
-- JD Keyword Matching
+- Job role based skill matching
 - Intelligent Project Recommendations
 - Interview Question Suggestions
 - Resume PDF Download
